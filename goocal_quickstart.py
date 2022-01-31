@@ -26,7 +26,7 @@ from googleapiclient.errors import HttpError
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/calendar.readonly']
-CLIENT_CREDENTIALS = 'client_credentials/client_secret_578679742297-bjr621bj5bqbf6hpong7sjpdhgcr240h.apps.googleusercontent.com.json'
+CLIENT_CREDENTIALS = 'client_credentials/credentials.json'
 
 
 def main():
